@@ -2,7 +2,10 @@
     <strong>Two-Factor Authentication - FastAPI</strong>
 </h1>
 
-🔨 🔨 🔨 🔨 🔨 🔨 🔨 🔨 WIP 🔨 🔨 🔨 🔨 🔨 🔨 🔨 🔨
+<h1 align="center">
+    <strong>🔨 🔨 🔨 🔨 🔨 🔨 🔨 🔨 WIP 🔨 🔨 🔨 🔨 🔨 🔨 🔨 🔨</strong>
+</h1>
+
 
 ## Login Flow 🚨
 
